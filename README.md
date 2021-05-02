@@ -1,22 +1,21 @@
 # Exploratory Data Analysis on Facebook data
 
-### Steps
+## Steps  :-
 
--Python Libraries like "Pandas","Matplotlib","Numpy","Seaborn" are imported for analysis;
--Pandas profiling is used for data profilling.
--Missing values under "gender" and "tenure" column are dropped.
--A total of 98,826 rows and 14 columns are recorded.
--perform analysis on different observations.
+- Python Libraries like "Pandas","Matplotlib","Numpy","Seaborn" are imported for analysis;
+- Pandas profiling is used for data profilling;
+- Missing values under "gender" and "tenure" column are dropped;
+- A total of 98,826 rows and 14 columns are recorded;
+- Perform analysis on different observations;
 
-### EDA
+### EDA : - 
 
--Gender wise facebook user count.
--Gender wise friend count.
--Gender wise friendship_initiated count.
--Age of facebook user distribution.
--Distribution of user tenure on Facebook.
--Finding relation between different variables of data.
--Fetching patterns Gender wise on Likes/Mobile_likes/Web_likes.
+- Gender wise facebook user count;
+- Gender wise friend count;
+- Gender wise friendship_initiated count;
+- Age of facebook user distribution;
+- Distribution of user tenure on Facebook;
+- Finding relation between different variables of data;
+- Fetching patterns Gender wise on Likes/Mobile_likes/Web_likes.
 
-
-click here
+click here to see notebook [EDA-Facebook_data](http://https://github.com/tousef097/EDA-Facebook-data/blob/main/Facebook%20Project.ipynb "EDA-Facebook_data")
