@@ -1,7 +1,5 @@
 # Exploratory Data Analysis on Facebook data
 
-
-
 ### Steps
 
 -Python Libraries like "Pandas","Matplotlib","Numpy","Seaborn" are imported for analysis;
@@ -9,7 +7,6 @@
 -Missing values under "gender" and "tenure" column are dropped.
 -A total of 98,826 rows and 14 columns are recorded.
 -perform analysis on different observations.
-
 
 ### EDA
 
