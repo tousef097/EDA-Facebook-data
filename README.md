@@ -4,7 +4,7 @@
 
 ### Steps
 
--Python Libraries like "Pandas","Matplotlib","Numpy","Seaborn" are imported for analysis.
+-Python Libraries like "Pandas","Matplotlib","Numpy","Seaborn" are imported for analysis;
 -Pandas profiling is used for data profilling.
 -Missing values under "gender" and "tenure" column are dropped.
 -A total of 98,826 rows and 14 columns are recorded.
