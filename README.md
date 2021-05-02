@@ -1,2 +1,3 @@
-# EDA-Facebook-data
-This is my first repo
+# Exploratory Data Analysis on Facebook data
+
+
