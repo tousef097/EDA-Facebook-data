@@ -18,4 +18,4 @@
 - Finding relation between different variables of data;
 - Fetching patterns Gender wise on Likes/Mobile_likes/Web_likes.
 
-click here to see notebook [EDA-Facebook_data](http://https://github.com/tousef097/EDA-Facebook-data/blob/main/Facebook%20Project.ipynb "EDA-Facebook_data")
+click here to see notebook [Facebook Project](http://https://github.com/tousef097/EDA-Facebook-data/blob/main/Facebook%20Project.ipynb "Facebook Project")
